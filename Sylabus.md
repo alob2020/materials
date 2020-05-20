@@ -21,19 +21,24 @@ Aktivní účast v hodině. Plnění zadaných úkolů. Složení ústní (pří
     - Fundamentální a technická analýza
     - Psychologie
     - Manuální a Automatické obchodování
+    - HFT, swing, investování, intraday
+    - účastníci trhu
 3. __Kryptoměny a blockchain__
 4. __Data z trhu a obchodní model__
     - Obchodní model a hledání "díry" na trhu
     - Analýza, statistika a vyhodnocování dat
-5. __Backtest a metody evaluace__
-    - <ins>*+ vizualizace ?*
-6. __Risk management__
+5. __Risk management__
     - <ins>*samo o sobě je to dost obsáhlý topic a také zasahuje do ostatních*
+6. __Backtest a metody evaluace__
+    - <ins>*+ vizualizace ?*
 7. __Vylepšování modelů__
     - Optimalizace parametrů modelu
     - <ins>*Machine learning ?*
     - Vylepšování vstupů a výstupů
-
+    - vizualizace
+8. **Walk Forward**
+9. **Další věci**
+    - fpga chipy
 
 ## Základní literatura
 
