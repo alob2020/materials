@@ -14,28 +14,28 @@ Aktivní účast v hodině. Plnění zadaných úkolů. Složení ústní (pří
 
 ## Obsah (*alpha verze*)
 
-1. __Představení obchodování a uvedení do problematiky__
+1. **Představení obchodování a uvedení do problematiky**
     - Popis trhu
     - Obchodování na trhu
-2. __Systematické a diskreční obchodování__
+2. **Systematické a diskreční obchodování**
     - Fundamentální a technická analýza
     - Psychologie
     - Manuální a Automatické obchodování
     - HFT, swing, investování, intraday
     - účastníci trhu
-3. __Kryptoměny a blockchain__
-4. __Data z trhu a obchodní model__
+3. **Kryptoměny a blockchain**
+4. **Data z trhu a obchodní model**
     - Obchodní model a hledání "díry" na trhu
     - Analýza, statistika a vyhodnocování dat
-5. __Risk management__
-    - <ins>*samo o sobě je to dost obsáhlý topic a také zasahuje do ostatních*
-6. __Backtest a metody evaluace__
-    - <ins>*+ vizualizace ?*
-7. __Vylepšování modelů__
+    - vizualizace
+5. **Risk management**
+6. **Backtest a metody evaluace**
+    - vizualizace
+7. **Vylepšování modelů**
     - Optimalizace parametrů modelu
-    - <ins>*Machine learning ?*
     - Vylepšování vstupů a výstupů
     - vizualizace
+    - *Machine learning?*
 8. **Walk Forward**
 9. **Další věci**
     - fpga chipy
